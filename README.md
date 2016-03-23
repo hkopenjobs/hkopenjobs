@@ -25,10 +25,11 @@ Please note that title _cannot be_ all in _ALL CAPS_ like this:
 GOOGLE - CHIEF SOFTWARE ARCHITECT - CENTRAL
 ```
 
-The content of the job post _MUST_ be in [Markdown format](https://daringfireball.net/projects/markdown/syntax).  
-Lastly, the posting _must_ include a label stating the type of job (e.g. Full-time, Part-time, Contract, Internship)
+The content of the job post _MUST_ be in [Markdown format](https://daringfireball.net/projects/markdown/syntax).
 
-For consistency reasons, please follow the template below and provide as much information as possible.
+For consistency reasons, please follow the template below and provide as much information as possible.  
+You _must_ include the type of job in the posting (e.g. Full-time, Part-time, Contract, Internship).  
+Labels will be added by admins.
 
 ```
 ## Location
