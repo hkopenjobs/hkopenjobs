@@ -28,7 +28,7 @@ GOOGLE - CHIEF SOFTWARE ARCHITECT - CENTRAL
 The content of the job post _MUST_ be in [Markdown format](https://daringfireball.net/projects/markdown/syntax).  
 Lastly, the posting _must_ include a label stating the type of job (e.g. Full-time, Part-time, Contract, Internship)
 
-We prepare the following template for you (you can include more details if you like, pictures are always great additions):
+For consistency reasons, please follow the template below and provide as much information as possible.
 
 ```
 ## Location
