@@ -3,7 +3,7 @@ An open job board for developers in Hong Kong
 
 ### How to submit a new job post?
 
-Simply [create a GitHub issue](https://github.com/awesome-jobs/jobs/issues/new)
+Simply [create a GitHub issue](https://github.com/hkopenjobs/hkopenjobs/issues/new)
 
 ### What is the format of the job post?
 
