@@ -1,4 +1,4 @@
-# hkopenjobs
+# hkopenjobs 🇭🇰
 An open job board for developers in Hong Kong
 
 ### How to submit a new job post?
